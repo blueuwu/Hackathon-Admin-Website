@@ -1,6 +1,6 @@
 # Hackathon Page
 
-### [Live Version]()
+### [Live Version](https://62c46c073c107938600a202f--playful-jalebi-b268f9.netlify.app/)
 
 A Web App For Hackathon Admin Pannel to demonstrate where your admins can modify challenges easily
 
@@ -15,7 +15,7 @@ A Web App For Hackathon Admin Pannel to demonstrate where your admins can modify
 
 ## How to run:
 
-1. [Download]() or [Clone]() the Repository.
+1. [Download](https://github.com/blueuwu/RandomRepo/archive/refs/heads/main.zip) or [Clone](https://github.com/blueuwu/RandomRepo.git) the Repository.
 2. Run `yarn install` to install the project dependencies.
 
 3. Run `yarn start` to run the app in development mode.
@@ -26,8 +26,8 @@ A Web App For Hackathon Admin Pannel to demonstrate where your admins can modify
 
 Page Load TIme has been calculated by using the [Lighthouse Tool]().
 
-![img]()
-![img]()
+![img](https://user-images.githubusercontent.com/80516804/177378501-702e179c-a6a8-4d80-9774-37feba09a9ba.PNG)
+![img](https://user-images.githubusercontent.com/80516804/177378647-5bfbee52-14c1-4979-9d08-669809c46317.PNG)
 
 
 ### Steps taken to Optimize
